@@ -11,7 +11,6 @@ body{
     .section-1{
         width: 100%;
         height: 100vh;
-        padding: 35px;
         
 
         header{
@@ -20,6 +19,7 @@ body{
             display: flex;
             align-items: center;
             justify-content: space-between;
+            padding-top: 30px;
 
             nav{
                 display: flex;
