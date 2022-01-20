@@ -27,7 +27,6 @@ body .section-1 header {
   -webkit-box-pack: justify;
       -ms-flex-pack: justify;
           justify-content: space-between;
-  padding-top: 30px;
 }
 
 body .section-1 header nav {
