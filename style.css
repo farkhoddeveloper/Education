@@ -39,4 +39,11 @@ body .section-1 header nav {
           align-items: center;
   gap: 40px;
 }
+
+body .section-1 header .right {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  gap: 72px;
+}
 /*# sourceMappingURL=style.css.map */
