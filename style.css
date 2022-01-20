@@ -14,6 +14,7 @@ body .section-1 {
   width: 100%;
   height: 100vh;
   padding: 35px;
+  background: url(/Rasmlar/firstsectionbackground.svg);
 }
 
 body .section-1 header {
