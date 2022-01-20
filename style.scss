@@ -12,7 +12,7 @@ body{
         width: 100%;
         height: 100vh;
         padding: 35px;
-        background: url(/Rasmlar/firstsectionbackground.svg);
+        
 
         header{
             width: 100%;
@@ -31,6 +31,15 @@ body{
                 display: flex;
                 gap: 72px;
             }
+        }
+
+        main{
+            width: 100%;
+            height: 100vh;
+            background: url(/Rasmlar/firstsectionbackground.svg);
+            background-position: center;
+            background-repeat: no-repeat;
+            background-size: cover;
         }
     }
 }

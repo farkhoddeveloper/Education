@@ -14,7 +14,6 @@ body .section-1 {
   width: 100%;
   height: 100vh;
   padding: 35px;
-  background: url(/Rasmlar/firstsectionbackground.svg);
 }
 
 body .section-1 header {
@@ -46,5 +45,14 @@ body .section-1 header .right {
   display: -ms-flexbox;
   display: flex;
   gap: 72px;
+}
+
+body .section-1 main {
+  width: 100%;
+  height: 100vh;
+  background: url(/Rasmlar/firstsectionbackground.svg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 /*# sourceMappingURL=style.css.map */
